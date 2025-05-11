@@ -1,0 +1,8 @@
+.labels {
+  display: flex;
+  justify-content: space-between;
+}
+.selected {
+  background-color: aquamarine;
+  color: black;
+}
